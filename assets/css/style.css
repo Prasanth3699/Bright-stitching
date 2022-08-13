@@ -2,6 +2,7 @@
 
 body{
     background-color: #f6fff8;
+    
 }
 
 .about-text{
@@ -11,6 +12,12 @@ body{
 }
 
 /* MAIN */
+.product-name{
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: 900;
+    background-color: #80ed99;
+    
+}
 .product-img{
     width: 95%;
     height: 200px;
