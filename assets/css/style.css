@@ -10,6 +10,18 @@ body{
     text-indent: 20px;
 }
 
+/* MAIN */
+.product-img{
+    width: 95%;
+    height: 200px;
+    
+}
+
+.product-img:hover{
+    height: 200px;
+    width: 100%;
+}
+
 /* footer  */
 
 .footer{
@@ -21,5 +33,5 @@ body{
     
 }
 .footer-text{
-    font-weight: 900;
+    font-weight: 400;
 }
